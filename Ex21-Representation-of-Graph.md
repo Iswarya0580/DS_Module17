@@ -14,7 +14,7 @@ To write a C program to display the adjacency matrix of the given graph by suppl
 ## Program:
 
 ### Program to display the adjacency matrix of the given graph
-#### DEVELOPED BY: SARANYA S
+#### DEVELOPED BY: ISWARYA P
 #### REGISTER NO:212223230082
 ```
 #include<stdio.h>
